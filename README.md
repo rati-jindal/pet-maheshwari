@@ -1,6 +1,6 @@
 # pet-maheshwari README
 
-This is the README for your extension "pet-maheshwari". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "pet-maheshwari". 
 
 ## Features
 
@@ -14,11 +14,9 @@ Extenstion Folder where the Javascript Code reside
 ![image](https://user-images.githubusercontent.com/107218672/219881083-5cb2af9e-28ce-4654-bdaa-19fd7d58bc88.png)
 Image Output for the extension 
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+VS Code Extension: TypeScript + Webpack Problem Matchers
 
 ## Extension Settings
 
@@ -30,10 +28,6 @@ This extension contributes the following settings:
 
 * `myExtension.enable`: Enable/disable this extension.
 * `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
 
 ## Release Notes
 
