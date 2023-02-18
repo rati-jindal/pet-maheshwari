@@ -4,11 +4,15 @@ This is the README for your extension "pet-maheshwari". After writing up a brief
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+The Motivation extension for Visual Studio Code sends a notification every 5 minutes with a random animal emoji and a random motivational quote to keep you inspired and focused while coding. The extension uses an external API to fetch motivational quotes and generates a random animal emoji to add some fun to your coding experience.
 
 For example if there is an image subfolder under your extension project workspace:
-
+Sub-Folder in src folder
 \!\[feature X\]\(images/feature-x.png\)
+![image](https://user-images.githubusercontent.com/107218672/219881173-b2d96452-f7bc-47c6-8003-6e1e46d1b4b0.png)
+Extenstion Folder where the Javascript Code reside
+![image](https://user-images.githubusercontent.com/107218672/219881083-5cb2af9e-28ce-4654-bdaa-19fd7d58bc88.png)
+Image Output for the extension 
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
